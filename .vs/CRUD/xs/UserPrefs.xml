@@ -1,35 +1,4 @@
-﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{8C41A664-8A39-4737-AB69-E98636BB1B55}|Default">
-  <MonoDevelop.Ide.ItemProperties.CRUD PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench>
-    <Files>
-      <File FileName="CRUD/appsettings.json" Line="2" Column="44" />
-      <File FileName="CRUD/Models/ApplicationDbContext.cs" Line="7" Column="74" />
-      <File FileName="CRUD/Startup.cs" Line="30" Column="13" />
-      <File FileName="CRUD/Models/Movie.cs" Line="22" Column="18" />
-      <File FileName="CRUD/Models/Genre.cs" Line="1" Column="1" />
-    </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="CRUD" expanded="True">
-            <Node name="CRUD" expanded="True">
-              <Node name="Dependencies" expanded="True" />
-              <Node name="Models" expanded="True" />
-              <Node name="Properties" expanded="True" />
-              <Node name="wwwroot" expanded="True">
-                <Node name="js" expanded="True" />
-              </Node>
-              <Node name="Startup.cs" selected="True" />
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
-  </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+﻿<Properties StartupConfiguration="{29C6B978-62D3-4F4C-BCD6-3B851EDF714A}|Default">
+  <MonoDevelop.Ide.ItemProperties.CRUD FirstBuild="True" />
   <MultiItemStartupConfigurations />
 </Properties>
